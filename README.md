@@ -13,8 +13,7 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
 </p>
 
-Facebook is an online social media web application where we can connect with our friends, families and other bussinesses etc. It is a collaborative project built by a team of 3 and executed in 5 days.
-
+Facebook is an online social media web application where we can connect with our friends, families and other bussinesses etc.
 ![facebook](https://user-images.githubusercontent.com/91532881/174793612-ebef3369-3427-4ea0-91af-1765c8be74ce.jpg)
 
   <br />
